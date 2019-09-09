@@ -5,7 +5,7 @@ In the project directory, you can run:
 ### 1 - First of all, install dependencies:
  `npm install`
 
-### 2 - To start the local server (API):
+### 2 - To start the local node server (API):
  `node server`
 
 ### 3 - To start the app:
