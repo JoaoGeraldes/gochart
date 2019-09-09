@@ -2,10 +2,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+After cloning to your computer...
 In the project directory, you can run:
 
-To start the local server (API):
-### `node server`
+### To start the local server (API):
+ `node server`
 
 To start the app:
 ### `npm start`
